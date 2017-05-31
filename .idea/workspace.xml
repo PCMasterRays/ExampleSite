@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="306bbe94-83aa-4f17-8383-311dfaca9e1d" name="Default" comment="Add signup.php&#10;                &#10;                Add Test Comment">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Text.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+    <list default="true" id="306bbe94-83aa-4f17-8383-311dfaca9e1d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/Text.txt" afterPath="$PROJECT_DIR$/php/Text.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_us.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contact_us.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/php/contact_us.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
+            <state relative-caret-position="638">
               <caret line="29" column="51" lean-forward="false" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
               <folding />
             </state>
@@ -76,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Text.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Text.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/Text.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="86" lean-forward="true" selection-start-line="0" selection-start-column="86" selection-end-line="0" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -111,6 +110,32 @@
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/Patch-1.1" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -242,6 +267,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -351,7 +377,7 @@
       <workItem from="1496178156999" duration="96000" />
       <workItem from="1496178338997" duration="603000" />
       <workItem from="1496232306232" duration="532000" />
-      <workItem from="1496232974533" duration="1496000" />
+      <workItem from="1496232974533" duration="1764000" />
     </task>
     <task id="LOCAL-00001" summary="Commit XML File">
       <created>1496233391487</created>
@@ -416,15 +442,28 @@
       <option name="project" value="LOCAL" />
       <updated>1496234134399</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add signup.php&#10;                &#10;                Add Test Comment">
+      <created>1496234538270</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1496234538270</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add test txt file">
+      <created>1496234557383</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1496234557383</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13115000" />
+    <option name="totallyTimeSpent" value="13383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13385417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -456,7 +495,9 @@
     <MESSAGE value="Commit XML File" />
     <MESSAGE value="Add response.php&#10;Add test message to response.php" />
     <MESSAGE value="Add signup.php&#10;&#10;Add Test Comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add signup.php&#10;&#10;Add Test Comment" />
+    <MESSAGE value="Add signup.php&#10;                &#10;                Add Test Comment" />
+    <MESSAGE value="add test txt file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test txt file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -645,26 +686,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/contact_us.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="29" column="51" lean-forward="false" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/index.php">
+    <entry file="file://$PROJECT_DIR$/php/Text.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/response.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <caret line="0" column="86" lean-forward="true" selection-start-line="0" selection-start-column="86" selection-end-line="0" selection-end-column="86" />
           <folding />
         </state>
       </provider>
@@ -677,10 +702,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/Text.txt">
+    <entry file="file://$PROJECT_DIR$/php/response.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="44">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/contact_us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="51" lean-forward="false" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
           <folding />
         </state>
       </provider>
