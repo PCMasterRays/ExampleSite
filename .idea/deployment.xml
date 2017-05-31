@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="CollyComp" uploadOnCheckin="d24057d8-0ad0-4393-9437-324010ea482e">
+    <serverData>
+      <paths name="CollyComp">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/16DececioR62/public_html/" local="$PROJECT_DIR$" web="/home/16DececioR62/public_html/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="CollyComp" />
+  </component>
+</project>
