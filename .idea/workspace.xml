@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="306bbe94-83aa-4f17-8383-311dfaca9e1d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/signup.php" afterPath="$PROJECT_DIR$/php/signup.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/response.php" afterPath="$PROJECT_DIR$/php/response.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,24 +68,24 @@
       <file leaf-file-name="contact_us.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/contact_us.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="40" column="7" lean-forward="false" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+            <state relative-caret-position="695">
+              <caret line="42" column="6" lean-forward="false" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="response.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="response.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/php/response.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="682">
+              <caret line="31" column="2" lean-forward="false" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="signup.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="signup.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/signup.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="601">
@@ -111,6 +111,7 @@
     <findStrings>
       <find>background</find>
       <find>h1</find>
+      <find>dbfunc</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -131,10 +132,10 @@
         <option value="$PROJECT_DIR$/php/includes/headerorig.html" />
         <option value="$PROJECT_DIR$/php/includes/stylesheet.css" />
         <option value="$PROJECT_DIR$/php/includes/header.html" />
-        <option value="$PROJECT_DIR$/php/response.php" />
         <option value="$PROJECT_DIR$/php/contact_us.php" />
         <option value="$PROJECT_DIR$/php/dbfunctions.php" />
         <option value="$PROJECT_DIR$/php/signup.php" />
+        <option value="$PROJECT_DIR$/php/response.php" />
       </list>
     </option>
   </component>
@@ -149,9 +150,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="950" />
-    <option name="width" value="978" />
-    <option name="height" value="1038" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -342,7 +344,7 @@
       <workItem from="1496178338997" duration="603000" />
       <workItem from="1496232306232" duration="532000" />
       <workItem from="1496232974533" duration="767000" />
-      <workItem from="1497122298505" duration="1851000" />
+      <workItem from="1497122298505" duration="2211000" />
     </task>
     <task id="LOCAL-00001" summary="Commit XML File">
       <created>1496233391487</created>
@@ -421,17 +423,23 @@
       <option name="project" value="LOCAL" />
       <updated>1497124091802</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Change signup.php to accomodate the list">
+      <created>1497124213368</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1497124213368</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16407000" />
+    <option name="totallyTimeSpent" value="16767000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="950" y="0" width="978" height="1038" extended-state="0" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2682672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13385417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -464,7 +472,8 @@
     <MESSAGE value="Add dbfunctions.php" />
     <MESSAGE value="Add code to signup.php" />
     <MESSAGE value="Add email placeholder on signup.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add email placeholder on signup.php" />
+    <MESSAGE value="Change signup.php to accomodate the list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change signup.php to accomodate the list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -650,22 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/response.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/contact_us.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="40" column="7" lean-forward="false" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -698,6 +691,22 @@
             <marker date="1497124153195" expanded="true" signature="428:486" ph="INSERT INTO tbl_booking... " />
             <marker date="1497124153195" expanded="true" signature="428:527" ph="INSERT INTO tbl_booking... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/contact_us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="42" column="6" lean-forward="false" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="2" lean-forward="false" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
