@@ -47,15 +47,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     <label>
         <span>Your Email :</span>
-        <input id="email" name="email" type="text">
+        <input id="email" name="email" type="text" placeholder="Your Email Address">
     </label>
 
     <label>
-        <span>Course :</span><select name="course" id="course"></select>
+        <span>Course :</span><select name="course"></select>
         <option value="CS" selected="selected">Computer Science</option>
         <option value="IT3">IT BTEC Level 3</option>
         <option value="IT2">IT BTEC Level 2</option>
-        <option value="Taster">Taster Session (2hrs)</option>
     </label>
 
     <label>

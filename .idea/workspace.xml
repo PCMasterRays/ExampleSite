@@ -49,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/php/gallery.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -79,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/php/response.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+              <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -88,11 +88,11 @@
       <file leaf-file-name="signup.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/php/signup.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="425">
+              <caret line="49" column="82" lean-forward="false" selection-start-line="49" selection-start-column="82" selection-end-line="49" selection-end-column="82" />
               <folding>
-                <marker date="1497123722736" expanded="true" signature="428:486" ph="INSERT INTO tbl_booking... " />
-                <marker date="1497123722736" expanded="true" signature="428:527" ph="INSERT INTO tbl_booking... " />
+                <marker date="1497124073993" expanded="true" signature="428:486" ph="INSERT INTO tbl_booking... " />
+                <marker date="1497124073993" expanded="true" signature="428:527" ph="INSERT INTO tbl_booking... " />
               </folding>
             </state>
           </provider>
@@ -149,8 +149,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="976" />
+    <option name="x" value="950" />
+    <option name="width" value="978" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
@@ -342,7 +342,7 @@
       <workItem from="1496178338997" duration="603000" />
       <workItem from="1496232306232" duration="532000" />
       <workItem from="1496232974533" duration="767000" />
-      <workItem from="1497122298505" duration="1423000" />
+      <workItem from="1497122298505" duration="1774000" />
     </task>
     <task id="LOCAL-00001" summary="Commit XML File">
       <created>1496233391487</created>
@@ -407,14 +407,21 @@
       <option name="project" value="LOCAL" />
       <updated>1497122549276</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add code to signup.php">
+      <created>1497123757258</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1497123757258</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15979000" />
+    <option name="totallyTimeSpent" value="16330000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="952" y="0" width="976" height="1038" extended-state="0" />
+    <frame x="950" y="0" width="978" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2682672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -448,7 +455,8 @@
     <MESSAGE value="Add response.php&#10;Add test message to response.php" />
     <MESSAGE value="Add test comment" />
     <MESSAGE value="Add dbfunctions.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add dbfunctions.php" />
+    <MESSAGE value="Add code to signup.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add code to signup.php" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -637,7 +645,7 @@
     <entry file="file://$PROJECT_DIR$/php/response.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -661,7 +669,7 @@
     <entry file="file://$PROJECT_DIR$/php/gallery.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -676,11 +684,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/php/signup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="425">
+          <caret line="49" column="82" lean-forward="false" selection-start-line="49" selection-start-column="82" selection-end-line="49" selection-end-column="82" />
           <folding>
-            <marker date="1497123722736" expanded="true" signature="428:486" ph="INSERT INTO tbl_booking... " />
-            <marker date="1497123722736" expanded="true" signature="428:527" ph="INSERT INTO tbl_booking... " />
+            <marker date="1497124073993" expanded="true" signature="428:486" ph="INSERT INTO tbl_booking... " />
+            <marker date="1497124073993" expanded="true" signature="428:527" ph="INSERT INTO tbl_booking... " />
           </folding>
         </state>
       </provider>
