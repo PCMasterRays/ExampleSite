@@ -38,7 +38,7 @@ include ('includes/header.html'); // include page header
     </label>
 
 </form>
-// test
+<!-- final form -->
 <?php
 include ('includes/footer.html');
 ?>

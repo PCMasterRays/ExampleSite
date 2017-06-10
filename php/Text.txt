@@ -1,1 +1,0 @@
-Test file to see if PHPStorm uploads to the remote server without an FTP server client
