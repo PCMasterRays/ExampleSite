@@ -88,11 +88,11 @@
       <file leaf-file-name="signup.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/php/signup.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="49" column="82" lean-forward="false" selection-start-line="49" selection-start-column="82" selection-end-line="49" selection-end-column="82" />
+            <state relative-caret-position="601">
+              <caret line="57" column="17" lean-forward="false" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
               <folding>
-                <marker date="1497124073993" expanded="true" signature="428:486" ph="INSERT INTO tbl_booking... " />
-                <marker date="1497124073993" expanded="true" signature="428:527" ph="INSERT INTO tbl_booking... " />
+                <marker date="1497124153195" expanded="true" signature="428:486" ph="INSERT INTO tbl_booking... " />
+                <marker date="1497124153195" expanded="true" signature="428:527" ph="INSERT INTO tbl_booking... " />
               </folding>
             </state>
           </provider>
@@ -342,7 +342,7 @@
       <workItem from="1496178338997" duration="603000" />
       <workItem from="1496232306232" duration="532000" />
       <workItem from="1496232974533" duration="767000" />
-      <workItem from="1497122298505" duration="1774000" />
+      <workItem from="1497122298505" duration="1851000" />
     </task>
     <task id="LOCAL-00001" summary="Commit XML File">
       <created>1496233391487</created>
@@ -414,11 +414,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497123757258</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add email placeholder on signup.php">
+      <created>1497124091801</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1497124091802</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16330000" />
+    <option name="totallyTimeSpent" value="16407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="950" y="0" width="978" height="1038" extended-state="0" />
@@ -456,7 +463,8 @@
     <MESSAGE value="Add test comment" />
     <MESSAGE value="Add dbfunctions.php" />
     <MESSAGE value="Add code to signup.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add code to signup.php" />
+    <MESSAGE value="Add email placeholder on signup.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add email placeholder on signup.php" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -684,11 +692,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/php/signup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="49" column="82" lean-forward="false" selection-start-line="49" selection-start-column="82" selection-end-line="49" selection-end-column="82" />
+        <state relative-caret-position="601">
+          <caret line="57" column="17" lean-forward="false" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
           <folding>
-            <marker date="1497124073993" expanded="true" signature="428:486" ph="INSERT INTO tbl_booking... " />
-            <marker date="1497124073993" expanded="true" signature="428:527" ph="INSERT INTO tbl_booking... " />
+            <marker date="1497124153195" expanded="true" signature="428:486" ph="INSERT INTO tbl_booking... " />
+            <marker date="1497124153195" expanded="true" signature="428:527" ph="INSERT INTO tbl_booking... " />
           </folding>
         </state>
       </provider>

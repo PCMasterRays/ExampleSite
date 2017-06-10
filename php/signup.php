@@ -51,10 +51,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     </label>
 
     <label>
-        <span>Course :</span><select name="course"></select>
+        <span>Course :</span><select name="course" >
         <option value="CS" selected="selected">Computer Science</option>
         <option value="IT3">IT BTEC Level 3</option>
         <option value="IT2">IT BTEC Level 2</option>
+        </select>
     </label>
 
     <label>
